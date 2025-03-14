@@ -4,7 +4,7 @@ import statistics
 bleu = evaluate.load("bleu")
 rouge = evaluate.load("rouge")
 
-EVAL_NAME = "MM-GRADE_top4"
+EVAL_NAME = "MM-GRADE_without_ESA"
 QA_PATH = "../benchmark/QA.jsonl"
 
 id2type_map = {}

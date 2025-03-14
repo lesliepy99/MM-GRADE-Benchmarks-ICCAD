@@ -1,5 +1,5 @@
 # SCORING_FILE_PATH = "./evaluate_results/rag-flow/MM-GRADE_without_ESA.json"
-SCORING_FILE_PATH = "./scores/VISTA-RAG.json"
+SCORING_FILE_PATH = "./scores/echosight_with-MM-GRADE-generator.json"
 QA_PATH = "../benchmark/QA.jsonl"
 import json
 import statistics
