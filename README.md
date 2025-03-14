@@ -7,4 +7,6 @@
   - [QA.jsonl](./benchmark/QA.jsonl) (**The 60 query-document-answer triplets in ORD-MMBench**)
 - [evaluation](./evaluation)
   - [ORD-MMBench-Scoring-criteria.xlsx](./evaluation/ORD-MMBench-Scoring-criteria.xlsx) (**The scoring criteria for each query in ORD-MMBench**)
+  - [answers/](./evaluation/answers) (**The generated answers of all the evaluated RAG flows on ORD-MMBench**)
+  - [scores/](./evaluation/scores) (**The LLM-scores of all the evaluated RAG flows on ORD-MMBench**)
 - [training_dataset](./training_dataset) (**The training dataset for the multi-modal retriever model and the generator model**)
